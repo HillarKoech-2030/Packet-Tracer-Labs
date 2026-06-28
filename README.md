@@ -3,61 +3,17 @@
 Welcome to my Cisco Packet Tracer repository.
 
 This repository contains all my networking practicals and projects completed using Cisco Packet Tracer.
-
----
-
-## Topics Covered
-
-- Basic Networking
-- IP Addressing
-- Subnetting
-- Static Routing
-- RIP
-- OSPF
-- EIGRP
-- VLANs
-- Inter-VLAN Routing
-- DHCP
-- NAT
-- ACLs
-- Wireless Networking
-- WAN Technologies
-- Final Projects
-
----
-
 ## Repository Structure
 
-Packet-Tracer-Labs/
-
-Basic-Networking/
-
-Subnetting/
-
-Routing/
-
-Switching/
-
-VLAN/
-
-DHCP/
-
-NAT/
-
-ACL/
-
-Wireless/
-
-Final-Projects/
-
----
-
-Software Used
-
-Cisco Packet Tracer
-
----
+- 01-Network-Fundamentals
+- 02-Switching
+- 03-Routing
+- 04-IP-Services
+- 05-Network-Security
+- 06-WAN-Technologies
+- 07-Enterprise-Networks
+- 08-Troubleshooting
+- 09-Final-Projects
 
 Author
-
 Hillary Koech
